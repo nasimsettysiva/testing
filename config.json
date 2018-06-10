@@ -1,0 +1,14 @@
+    {
+        "configurations": [
+            {
+                "name": "test",
+                "policies": [              
+                ],
+                "proxies": [
+                ],
+                "targets": [
+                ]
+            }
+        ]
+    }
+
